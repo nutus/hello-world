@@ -1,4 +1,4 @@
 # hello-world
 starter
 
-tring out branch on master comment. //edit made to readme
+trying out branch on master comment. //edit made to readme
